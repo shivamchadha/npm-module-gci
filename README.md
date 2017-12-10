@@ -2,8 +2,12 @@
 
 Prints "Hello world!".
 
-Installation
-`$ npm install npm-module-gci`
+# Installation
 
-License
-MIT
+`$ npm install hello-world-gci-shivam`
+
+# Example
+
+``` var demo = require('hello-world-gci-shivam');
+
+    demo.helloWorld();```
