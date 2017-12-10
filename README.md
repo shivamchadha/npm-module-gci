@@ -3,7 +3,7 @@
 Prints "Hello world!".
 
 Installation
-$ npm install npm-module-gci
+`$ npm install npm-module-gci`
 
 License
 MIT
