@@ -8,6 +8,7 @@ Prints "Hello world!".
 
 # Example
 
-``` var demo = require('hello-world-gci-shivam');
-
-    demo.helloWorld();```
+``` 
+var demo = require('hello-world-gci-shivam');
+demo.helloWorld();
+```
